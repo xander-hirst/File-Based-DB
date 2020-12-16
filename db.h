@@ -1,0 +1,2 @@
+#define MAX_INPUT_SIZE 7
+#define MAX_REMOVAL_TOKEN_SIZE 40
